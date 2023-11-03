@@ -33,7 +33,6 @@ cc_defaults {
         "libbase",
         "libbootloader_message",
         "libcrypto",
-        "libcutils",
         "libext4_utils",
         "libfs_mgr",
         "libfusesideload",
